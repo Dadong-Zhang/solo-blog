@@ -1,19 +1,21 @@
-<p align="center"><img alt="Dadong-Zhang 的个人博客" src="https://static.b3log.org/images/brand/solo-32.png"></p><h2 align="center">
-Dadong-Zhang 的个人博客
+<p align="center"><img alt="张大东的个人网站" src="https://static.b3log.org/images/brand/solo-128.png"></p><h2 align="center">
+张大东的个人网站
 </h2>
 
-<h4 align="center">记录精彩的程序人生</h4>
-<p align="center"><a title="Dadong-Zhang 的个人博客" target="_blank" href="https://github.com/Dadong-Zhang/solo-blog"><img src="https://img.shields.io/github/last-commit/Dadong-Zhang/solo-blog.svg?style=flat-square&color=FF9900"></a>
+<h4 align="center">的一生</h4>
+<p align="center"><a title="张大东的个人网站" target="_blank" href="https://github.com/Dadong-Zhang/solo-blog"><img src="https://img.shields.io/github/last-commit/Dadong-Zhang/solo-blog.svg?style=flat-square&color=FF9900"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github.com/Dadong-Zhang/solo-blog"><img src="https://img.shields.io/github/repo-size/Dadong-Zhang/solo-blog.svg?style=flat-square"></a>
-<a title="Solo Version" target="_blank" href="https://github.com/b3log/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.4-f1e05a.svg?style=flat-square&color=blueviolet"></a>
-<a title="Hits" target="_blank" href="https://github.com/b3log/hits"><img src="https://hits.b3log.org/Dadong-Zhang/solo-blog.svg"></a></p>
+<a title="Solo Version" target="_blank" href="https://github.com/88250/solo/releases"><img src="https://img.shields.io/badge/solo-4.3.1-f1e05a.svg?style=flat-square&color=blueviolet"></a>
+<a title="Hits" target="_blank" href="https://github.com/88250/hits"><img src="https://hits.b3log.org/Dadong-Zhang/solo-blog.svg"></a></p>
 
 ### 最新
 
-* [世界，你好！](http://www.keithzhang.cn/hello-solo)
+* [System Problem Detection by Mining Console Logs](https://keithzhang.cn/articles/2020/12/03/1606998511503.html)
+* [简单理解Kafka的原理框架](https://keithzhang.cn/articles/2020/12/03/1606998385997.html)
+* [世界，你好！](https://keithzhang.cn/hello-solo)
 
 
 
 ---
 
-本仓库通过 [Solo](https://github.com/b3log/solo) 自动进行同步更新 ❤️ 
+本仓库通过 [Solo](https://github.com/88250/solo) 自动进行同步更新 ❤️ 
