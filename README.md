@@ -10,6 +10,10 @@
 
 ### 最新
 
+* [Kubernetes学习笔记（未完待续）](https://keithzhang.cn/articles/2020/12/08/1607438561829.html)
+* [快速博客搭建指南](https://keithzhang.cn/articles/2020/12/08/1607437719776.html)
+* [Tensorflow安装过程](https://keithzhang.cn/articles/2020/12/08/1607433792513.html)
+* [单指标时序异常检测学习笔记](https://keithzhang.cn/articles/2020/12/08/1607400247613.html)
 * [System Problem Detection by Mining Console Logs](https://keithzhang.cn/articles/2020/12/03/1606998511503.html)
 * [简单理解Kafka的原理框架](https://keithzhang.cn/articles/2020/12/03/1606998385997.html)
 * [世界，你好！](https://keithzhang.cn/hello-solo)
